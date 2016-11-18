@@ -1,0 +1,1 @@
+This project is an attempt to explore the classification of handwritten digits using the MINST dataset. I will perform a number of digit classification attempts using various algorithms to explore which is the most effective and to practice a variety of techniques.
